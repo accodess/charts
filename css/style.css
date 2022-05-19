@@ -1,0 +1,32 @@
+/*body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}*/
+
+.chart{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
+.chartline{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
+.link1{
+    color:rgb(87, 87, 87);
+}
+.link1:hover {
+    color:aliceblue;
+}
+.btn-link1:hover{
+    color:aliceblue;
+}
+.link2{
+    color: rgb(30, 79, 193);
+}
+.link3{
+    color: rgb(193, 30, 177);
+}
